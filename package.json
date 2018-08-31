@@ -6,7 +6,7 @@
   "private": true,
   "scripts": {
     "start": "node server.js",
-    "scss": "node-sass --watch ../src -o ../src"
+    "scss": "node-sass --watch ../a1-gettingstarted -o .../a1-gettingstarted"
   },
   "dependencies": {
     "bootstrap": "^4.1.3",
